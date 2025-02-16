@@ -1,6 +1,6 @@
 <div align="center">
      
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＡＳＩＴＨＡ+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=QUEEN-SANU+ＭＤ+V2+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
 
 
 
@@ -12,7 +12,7 @@
 <hr>
 
 <p align="center">
-<a href="https://github.com/athulakumara604/ASITHA-MD">
+<a href="https://github.com/athulakumara604/QUEEN-SENU-MD">
     <img src="https://i.ibb.co/QpHWsf3/887e510f8681158e.jpg"  width="700px">
 </a>
 <hr>
@@ -32,12 +32,11 @@
 </details>
 
 ## Deploy.
- [![nima](https://img.shields.io/badge/asitha_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://heroku.com/deploy?template=https://github.com/athulakumara604/ASITHA-MD.git)
+ [![nima](https://img.shields.io/badge/Queen-senu_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://heroku.com/deploy?template=https://github.com/athulakumara604/ASITHA-MD.git)
   
-[![nima](https://img.shields.io/badge/asitha_md_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
+[![nima](https://img.shields.io/badge/Queen-senu_md_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
    
-[![nima](https://img.shields.io/badge/asitha_md_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
+[![nima](https://img.shields.io/badge/Queen-senu_md_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
    
-[![nima](https://img.shields.io/badge/asitha_md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
-
+[![nima](https://img.shields.io/badge/Queen-senu_md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
 
