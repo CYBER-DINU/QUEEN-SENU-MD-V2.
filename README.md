@@ -13,7 +13,7 @@
 
 <p align="center">
 <a href="https://github.com/athulakumara604/QUEEN-SENU-MD">
-    <img src="https://i.ibb.co/QpHWsf3/887e510f8681158e.jpg"  width="700px">
+    <img src="https://i.ibb.co/Q4cYR4h/6139e449c45eb581.jpg"  width="700px">
 </a>
 <hr>
 
